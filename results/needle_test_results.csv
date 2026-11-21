@@ -1,0 +1,7 @@
+context_target_tokens,position,actual_document_tokens,found,status,answer
+1000,start,1099,False,MISS,NOT FOUND
+1000,middle,1099,True,OK,TOPAZ-42
+1000,end,1099,True,OK,TOPAZ-42
+3000,start,3341,True,OK,TOPAZ-42
+3000,middle,3341,True,OK,98: The fictional vault code for lab-7 is TOPAZ-42.
+3000,end,3341,True,OK,TOPAZ-42
